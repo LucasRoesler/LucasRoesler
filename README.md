@@ -2,13 +2,14 @@
 
 I am a Partner and Senior Engineer at [Contiamo](https://contiamo.com) and core contributor to [OpenFaaS](https://www.openfaas.com).
 
-⚒ I work with:
-  - 💻 Go, Python, and (when I have to) Typescript 
-  - 🔌 Kubernetes, Serverless, Observability, and other DevOps-ish things
+⚒ I work with/on:
+  - 💻 Go, Python, SQL, Bash, and (when I have to) Typescript 
+  - 🧮 Data engineering with tools like [dbt](https://github.com/dbt-labs) and [DataHub](https://github.com/datahub-project/datahub)
+  - 🔌 Kubernetes, OpenFaaS, Observability, and other DevOps-ish things
 
 🤝 Let's work together:
 
-Need some help? I specialize in Go, Kubernetes, OpenFaaS, Observability (metrics and tracing), and distributed systems in general.
+Need some help? I specialize in Go, Kubernetes, OpenFaaS, Observability (metrics and tracing), data engineering, and distributed systems in general.
   - Doing something Open Source? DM me on [🐦Twitter](https://twitter.com/theaxer).
   - Have a production level challenge? Contact us at [📬 Contiamo](mailto:info@contiamo.com).
   
