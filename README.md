@@ -3,7 +3,7 @@
 I am a Partner and Senior Engineer at [Contiamo](https://contiamo.com) and core contributor to [OpenFaaS](https://www.openfaas.com).
 
 ⚒ I work with:
-  - 💻 Go, Python, and, when I have to, Typescript 
+  - 💻 Go, Python, and (when I have to) Typescript 
   - 🔌 Kubernetes, Serverless, Observability, and other DevOps-ish things
 
 🤝 Let's work together:
