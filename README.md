@@ -16,7 +16,7 @@ Need some help? I specialize in Go, Kubernetes, OpenFaaS, Observability (metrics
 
 ⚡ Fun facts:
   - 📜 I sometimes blog at [lucasroesler.com](https://lucasroesler.com/posts/)
-  - 😻 I like 🧗rock climbing, 🍻 beer, 🥾 hiking, and my 🏍motorcycle.
+  - 😻 I like 🧗rock climbing, 🍻 beer, 🥾 hiking, and my 🏍 motorcycle.
   - 😄 Pronouns: He/Him
 
 
