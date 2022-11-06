@@ -10,12 +10,13 @@ I am a Partner and Senior Engineer at [Contiamo](https://contiamo.com) and core 
 🤝 Let's work together:
 
 Need some help? I specialize in Go, Kubernetes, OpenFaaS, Observability (metrics and tracing), data engineering, and distributed systems in general.
-  - Doing something Open Source? DM me on [🐦Twitter](https://twitter.com/theaxer).
+  - Doing something Open Source? DM me on [🐦Twitter](https://twitter.com/theaxer) or <a rel="me" href="https://floss.social/@theaxer">🦣Mastodon</a>.
   - Have a production level challenge? Contact us at [📬 Contiamo](mailto:info@contiamo.com).
   
 
 ⚡ Fun facts:
   - 📜 I sometimes blog at [lucasroesler.com](https://lucasroesler.com/posts/)
+  - 🦣 And I (micro-) blog on <a rel="me" href="https://floss.social/@theaxer">Mastodon</a>
   - 😻 I like 🧗rock climbing, 🍻 beer, 🥾 hiking, and my 🏍 motorcycle.
   - 😄 Pronouns: He/Him
 
