@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Partner and Senior Engineer at [Contiamo](https://contiamo.com) and core contributor to [OpenFaaS](https://www.openfaas.com).
+I am a Partner and Senior Engineer at [Contiamo](https://contiamo.com) and preeviously a core contributor to [OpenFaaS](https://www.openfaas.com).
 
 ⚒ I work with/on:
   - 💻 Go, Python, SQL, Bash, and (when I have to) Typescript 
